@@ -1,11 +1,9 @@
 Raccoon Stealer GoogleIP-Based Infrastructure:
 https://twitter.com/jorgemieres/status/1225901794628448256
-#######################################################################################
-* Raccoon Stealer DigitalOceanIP-Based Infrastructure <=> https://pastebin.com/Uh9cyTXw
-#######################################################################################
- 
-###########################
-## C2:
+
+* Raccoon Stealer DigitalOceanIP-Based Infrastructure <=> https://github.com/jamieres/Raccoon-Stealer/blob/master/DigitalOcean-Based-IP
+
+C2:
 34.65.176.45
 34.65.233.80
 34.65.76.39
