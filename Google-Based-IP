@@ -67,6 +67,9 @@ UPDATE 20200311:
 
 UPDATE 20200317:
 35.228.28.245
+
+UPDATE 20200323:
+34.77.119.120
  
 ** Evidence indicates that Aruba S.P.A. (Aruba.it) infrastructure also was used by Raccoon Stealer as a C2.
  
@@ -246,6 +249,9 @@ ba86ecdd068d8f3f98501672776e6c77
 e5fe7bcc4b2aac5375ab394bf2dfd650
 95e09953ec759cc6bdf9704064c54271
 7d8bb8af7d0b551b2cf922c0a86f423c
+
+UPDATE 20200323:
+7d5eec59d947f67bc29b1ab3f2f0c3f9
  
 ###########################
 ## AV nomenclature
