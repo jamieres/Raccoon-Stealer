@@ -70,6 +70,10 @@ UPDATE 20200317:
 
 UPDATE 20200323:
 34.77.119.120
+
+UPDATE 20200326
+34.76.242.200
+35.228.255.19
  
 ** Evidence indicates that Aruba S.P.A. (Aruba.it) infrastructure also was used by Raccoon Stealer as a C2.
  
@@ -252,7 +256,14 @@ e5fe7bcc4b2aac5375ab394bf2dfd650
 
 UPDATE 20200323:
 7d5eec59d947f67bc29b1ab3f2f0c3f9
- 
+
+UPDATE 20200326:
+1b72e3973dc97e03a50c002ea4255fd7
+ee8a9e862029da180e42218019140799
+063b36fcd555d8121c4f84018ec97f5e
+7e8ae3650056fce267654806ac45f51c
+ca3309b88ba577f8bf664725f7d24f86
+
 ###########################
 ## AV nomenclature
 Kaspersky:Trojan-PSW.Win32.Racealer.bpn
