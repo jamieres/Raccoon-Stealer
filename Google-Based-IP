@@ -23,62 +23,7 @@ C2:
 35.228.134.218
 35.233.31.88
 35.246.8.131
- 
-UPDATE 20200210:
-35.198.141.56
-35.228.134.218
-https://twitter.com/jorgemieres/status/1226903748959768581
- 
-UPDATE 20200212:
-34.76.55.103
-https://twitter.com/jorgemieres/status/1227670585809002509
- 
-UPDATE 20200218:
-104.155.44.42
-https://twitter.com/jorgemieres/status/1229783968242946049
- 
-UPDATE 20200219:
-35.228.57.136
-https://twitter.com/jorgemieres/status/1230213635877867523
- 
-UPDATE 20200302:
-35.228.248.113
-https://twitter.com/jorgemieres/status/1234534397182906371
 
-UPDATE 20200303:
-35.205.213.237
-https://twitter.com/jorgemieres/status/1234945483220623360
-
-UPDATE 20200304:
-35.246.80.69
-https://twitter.com/jorgemieres/status/1235248456039530496
-
-UPDATE 20200305:
-34.76.15.247
-https://twitter.com/jorgemieres/status/1235636355910324224
-
-UPDATE 20200309:
-35.228.60.178
-35.240.77.90
-https://twitter.com/jorgemieres/status/1237073849633705984
-
-UPDATE 20200311:
-35.228.98.200
-
-UPDATE 20200317:
-35.228.28.245
-
-UPDATE 20200323:
-34.77.119.120
-
-UPDATE 20200326
-34.76.242.200
-35.228.255.19
- 
-** Evidence indicates that Aruba S.P.A. (Aruba.it) infrastructure also was used by Raccoon Stealer as a C2.
- 
-###########################
-## MD5-hash:
 0621df2941dca227b70b077f56bae953
 06aee7a45e5ed37dfd30567d228fda60
 0d294cb9f15d669bd2acf98129cf3547
@@ -165,7 +110,12 @@ fa8248fc6e8586e5a8ce8c2c27d3a24c
 fab981ad38c23bcbf51f237833bf19ee
 fb32785e04e10df47cb49eeb37c7539a
  
-UPDATE 20200210:
+ 
+** UPDATE 20200210:
+35.198.141.56
+35.228.134.218
+https://twitter.com/jorgemieres/status/1226903748959768581
+
 041249f7d59fe9241309e9d9d2217e2e
 c6f92b275333816e123b5788d3a50baa
 c8ea34d717420d2316b207462356c790
@@ -176,7 +126,11 @@ f4f18912dcc78739a8f78b0f0ca3e35c
 169f434af6b269e8ff9ecdcefac4b25b
 3c6e45dfce1ea91858d3bcadfde4f76c
  
-UPDATE 20200212:
+ 
+** UPDATE 20200212:
+34.76.55.103
+https://twitter.com/jorgemieres/status/1227670585809002509
+
 864caa3b81740d39b069b9cbb2e67d31 => Raccoon version 1.4.2 Release
 348f0076f012ff2394b7c1c21dc91876 => Raccoon version 1.2 Kushage
 9d2c4275faf224f74ff5dd4c7c22aab3 => Raccoon version
@@ -184,15 +138,27 @@ UPDATE 20200212:
 faba8d1f0a1c89d9bde654edb128da56 => Raccoon version 1.4.2 Release
 914d54a1718545b5216888568466eac3 => Raccoon version 1.2 Kushage
  
-UPDATE 20200218:
+ 
+** UPDATE 20200218:
+104.155.44.42
+https://twitter.com/jorgemieres/status/1229783968242946049
+
 1e4172d9a06a90193eaa83d40eceefb4 => Raccoon version 1.4.2 Release
 f8e8da4bcb00ac0f4c52392719c7361e => Raccoon version 1.4.2 Release
  
-UPDATE 20200219:
+ 
+** UPDATE 20200219:
+35.228.57.136
+https://twitter.com/jorgemieres/status/1230213635877867523
+
 d8650be78c6fd653a72cbcbfcbcdf76a => Raccoon version 1.4.8 Release
 7168d3002d8fc40914cec13463b70596 => Raccoon version 1.4.8 Release
  
-UPDATE 20200302:
+ 
+** UPDATE 20200302:
+35.228.248.113
+https://twitter.com/jorgemieres/status/1234534397182906371
+
 da6ae06705fa210ce61e067b90ae4dcb
 69dd247870de01ee9cd90de91352df4b
 57828a1dc5e13670adeccda265f1ed34
@@ -202,16 +168,28 @@ b31446a90f674019ad2e1d1dfd5824d3
 48525ed95efe0c970d8fdb103895e738
 b60ab4056939401f8eaeb2b0219092d5
 
-UPDATE 20200303:
+
+** UPDATE 20200303:
+35.205.213.237
+https://twitter.com/jorgemieres/status/1234945483220623360
+
 df5e2788ce7c748b36e3ea347bac5a9d
 571366cf91794525e566abe12a90ddc1
 
-UPDATE 20200304:
+
+** UPDATE 20200304:
+35.246.80.69
+https://twitter.com/jorgemieres/status/1235248456039530496
+
 e84a24a57ea39e64168e515783e33643
 e0e1ed0401e525b288a8b5b5f136959e
 01a9f9686eb68f73d58392d44d801919
 
-UPDATE 20200305:
+
+** UPDATE 20200305:
+34.76.15.247
+https://twitter.com/jorgemieres/status/1235636355910324224
+
 4d291a4a119c933eee365fc02138aad3
 9b825faa4993d58a51fea7beab25e0f0
 fc8650feb011a03c8b3ca313212ddbcf
@@ -223,10 +201,14 @@ fead44f234582411719c59b2072d1159
 c2f1df38f9949f30b527f36071a3c3b7
 09ce7b349c9c15daa159e99a9641c17c
 
-UPDATE 20200309:
+
+** UPDATE 20200309:
+35.228.60.178
+35.240.77.90
+https://twitter.com/jorgemieres/status/1237073849633705984
+
 6acdb08976b66a591a65cdc554ba379f
 a1004b23ab518133bdc67bb327cbe8c4
-
 f9b1a13b1aa1e4d78665c336a76d171a
 0db8c5f7ca3cd2ee684c231f6b752399
 b750e42553e5027b742a1cef31333eba
@@ -236,13 +218,20 @@ b750e42553e5027b742a1cef31333eba
 97f4b85b7370ee127342b5f1cb10e529
 23d06ca6e7cbcd178275436ec541d82c
 
-UPDATE 20200311:
+
+** UPDATE 20200311:
+35.228.98.200
+
 f681467778a1aa78aa95e43cedb5e4ac
 4c8543dbb07b561290cbac62832fe975
 9a08170813e483502fd4b096bc88285e
 4f896ad3da215282aa5ee4653a23192a
 
-UPDATE 20200317:
+
+** UPDATE 20200317:
+35.228.28.245
+https://twitter.com/jorgemieres/status/1239918667590184966
+
 798b6f5930ba09c90f78ed6d16b03758
 58a28e7c7d75d793cb1496f07eb8bfed
 8b63631357f7e6c03e2da539f8d284c8
@@ -254,16 +243,28 @@ e5fe7bcc4b2aac5375ab394bf2dfd650
 95e09953ec759cc6bdf9704064c54271
 7d8bb8af7d0b551b2cf922c0a86f423c
 
-UPDATE 20200323:
+
+** UPDATE 20200323:
+34.77.119.120
+
 7d5eec59d947f67bc29b1ab3f2f0c3f9
 
-UPDATE 20200326:
+
+** UPDATE 20200326
+34.76.242.200
+35.228.255.19
+34.65.6.73
+https://twitter.com/jorgemieres/status/1243235169357705216
+
 1b72e3973dc97e03a50c002ea4255fd7
 ee8a9e862029da180e42218019140799
 063b36fcd555d8121c4f84018ec97f5e
 7e8ae3650056fce267654806ac45f51c
 ca3309b88ba577f8bf664725f7d24f86
-
+ 
+** Evidence indicates that Aruba S.P.A. (Aruba.it) infrastructure also was used by Raccoon Stealer as a C2.
+ 
+###########################
 ###########################
 ## AV nomenclature
 Kaspersky:Trojan-PSW.Win32.Racealer.bpn
