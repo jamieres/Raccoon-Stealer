@@ -1,0 +1,22 @@
+Two samples in-the-wild of Raccoon are using GitHub infrastructure as a part of the infection chain. It call a Python file with strings commited in Github, similar to exposed via Telegram channels
+https://github.com/jamieres/Raccoon-on-Telegram
+
+Raccoon C2 
+34.89.159.71
+
+MD5:
+4e7d8ae199d986420723abc7c570a490 
+d9053bcd39d1ddb4aed2d175485b5595 
+
+Second sample call to GitHub account under name #alexu10p1337 (#Alexuiop1337) with the subfolder "notifier-macos". 
+raw.githubusercontent.com/alexu10p1337/notifier-macos/master/.gitignore
+
+Actor Alexuiop1337 associated with #PredatorTheThief 
+
+myscript.py
+c3eafcZ33wW/cdvWgb6DxlTe0+Dk25wQ0/u2alnMj4bCno+E=b9-va1 
+https://github.com/skjdgflkjbmv/name/blob/master/myscript.py
+
+testscript.py
+0f32dyOn45KRxbshAxr89WiVDj1rqf5lh28GAR2e57WRrJ3M=e3-v4b
+https://github.com/skjdgflkjbmv/name/blob/master/testscript.py
